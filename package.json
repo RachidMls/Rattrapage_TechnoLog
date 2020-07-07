@@ -1,0 +1,25 @@
+{
+  "name": "rattrapage_technolog",
+  "version": "1.0.0",
+  "description": "Test pour le rattrapage de TechnoLog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachidMls/Rattrapage_TechnoLog.git"
+  },
+  "keywords": [
+    "nodejs;",
+    "git;",
+    "docker;",
+    "expressjs"
+  ],
+  "author": "Rachid ELARGABI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachidMls/Rattrapage_TechnoLog/issues"
+  },
+  "homepage": "https://github.com/RachidMls/Rattrapage_TechnoLog#readme"
+}
